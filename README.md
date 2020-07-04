@@ -18,4 +18,4 @@ pip install -i https://mirrors.aliyun.com/pypi/simple pygame
 观看代码注释
 
 项目说明
-这是我做的第一个python项目，通过pygame库编写简单的贪吃蛇小游戏
+这是我练手的第一个python项目，通过pygame库编写简单的贪吃蛇小游戏
